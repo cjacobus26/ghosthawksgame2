@@ -1,8 +1,12 @@
 /// @description Insert description here
 // You can write your code in this editor
-
 if (canAttack){
-	instance_create_layer(x,y, "Instances", obj_knightAttackTest)
+	sprite_index = spr_knightAttack;
 	canAttack = false
-	alarm[0] = 30
+	alarm[0] = 20
+} else{
+		sprite_index = spr_knightTest;
+		canAttack = true;
+		alarm[0] = 15;
+
 }
