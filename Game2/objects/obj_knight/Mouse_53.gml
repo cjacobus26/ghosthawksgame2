@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 if (canAttack){
-	instance_create_layer(x,y, "Instances", obj_knightAttack)
+	instance_create_layer(x,y, "Player", obj_knightAttack)
 	canAttack = false
 	alarm[0] = 30
 }
