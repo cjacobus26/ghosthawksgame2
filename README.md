@@ -15,3 +15,6 @@ To-Do List:
 - different weapons?
 - powerups?
 - start screen
+- projectiles for sorcerrers
+- health bar for player
+
