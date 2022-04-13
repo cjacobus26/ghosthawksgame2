@@ -8,4 +8,5 @@ draw_set_valign(fa_middle);
 draw_text(x,y,"YOU WIN!")
 draw_text(x,y+100,"You escaped the dangerous")
 draw_text(x,y+200,"dungeon... or so you think")
+draw_set_color(c_yellow);
 draw_text(x,y+300,"Press Esc to end game")
