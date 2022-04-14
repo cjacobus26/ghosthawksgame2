@@ -3,3 +3,5 @@
 instance_exists(obj_knight)
 maxHp = 100;
 hp = maxHp;
+
+score = 0;
