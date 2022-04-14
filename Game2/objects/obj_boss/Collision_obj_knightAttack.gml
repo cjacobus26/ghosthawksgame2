@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
 instance_destroy()
+score += 1000
 
-room_goto_next();
 
