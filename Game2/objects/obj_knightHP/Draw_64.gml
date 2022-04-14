@@ -4,3 +4,4 @@
 
 if instance_exists(obj_knight)
 draw_healthbar(8,8,256,32,obj_knight.hp,c_black,c_red,c_red,0,true,true)
+draw_text(16,40,"Score: " + string(score));
