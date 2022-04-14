@@ -1,0 +1,31 @@
+Dungeon Tileset
+Source: https://rekkimaru.itch.io/dungeon-rpg-tileset
+Created By: Rekkimaru
+Description: Used as background and tile set for Room1 in project
+Tileset is free to use
+
+Dragon and Lizard Enemies
+Source: https://craftpix.net/freebies/free-rpg-monster-sprites-pixel-art/
+Created: Craftpix 14 April 2020
+Description: Enemy sprites used in room1 and are used
+for obj_boss, and obj_lizard
+
+Knight and Knight Attack
+Source: https://craftpix.net/freebies/assassin-mage-viking-free-pixel-art-game-heroes/
+Created: Craftpix 1 October 2019
+Description: Sprites for obj_knight and obj_knightAttack in Room1
+
+Chest and Key
+Source: https://craftpix.net/freebies/free-pirate-stuff-pixel-art-icons/
+Created: CraftPix 9 February 2022
+Description: Sprites for obj_key and obj_chest were imported from
+Craftpix
+
+Functionality:
+obj_knightHp- Source: YoYo Games manual and GameMaker Workshop 1
+
+obj_knight: Movement was derived from GameMaker Workshop 2
+
+obj_endGame: Font1 and Draw event inspired from Completed Game Project
+
+
