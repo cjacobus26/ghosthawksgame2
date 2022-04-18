@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 if (canAttack){
-	instance_create_layer(x,y, "Player", obj_knightAttack)
+	instance_create_layer(x,y, "Player", attack_sprite)
 	canAttack = false
-	alarm[0] = 30
+	alarm[0] = attack_speed
 }

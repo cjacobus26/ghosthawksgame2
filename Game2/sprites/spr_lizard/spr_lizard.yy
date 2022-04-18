@@ -77,8 +77,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Lizard",
+    "path": "folders/Sprites/Enemies/Lizard.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_lizard",

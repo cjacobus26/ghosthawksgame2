@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Placeholder Sprites",
+    "path": "folders/Sprites/Placeholder Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_moveMarker",
