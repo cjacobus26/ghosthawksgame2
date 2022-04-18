@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_empty",
-    "path": "sprites/spr_empty/spr_empty.yy",
+    "name": "spr_moveMarker",
+    "path": "sprites/spr_moveMarker/spr_moveMarker.yy",
   },
   "solid": false,
   "visible": false,
@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Placeholders",
+    "path": "folders/Objects/Placeholders.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_moveMarker",

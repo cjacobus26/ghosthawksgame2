@@ -23,8 +23,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Knight",
+    "path": "folders/Objects/Player/Knight.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_knightHP",

@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_empty",
+    "path": "sprites/spr_empty/spr_empty.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -23,8 +26,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Shop",
+    "path": "folders/Objects/Shop.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_openableDoor",

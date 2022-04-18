@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "End Screen(s)",
+    "path": "folders/Objects/End Screen(s).yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_endGame",
