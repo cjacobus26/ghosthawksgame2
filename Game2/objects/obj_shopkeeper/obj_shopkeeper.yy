@@ -1,10 +1,10 @@
 {
   "spriteId": {
-    "name": "spr_moveMarker",
-    "path": "sprites/spr_moveMarker/spr_moveMarker.yy",
+    "name": "spr_shopkeeper",
+    "path": "sprites/spr_shopkeeper/spr_shopkeeper.yy",
   },
   "solid": false,
-  "visible": false,
+  "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -20,7 +20,10 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":73,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_knight","path":"objects/obj_knight/obj_knight.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -28,7 +31,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_moveMarker",
+  "name": "obj_shopkeeper",
   "tags": [],
   "resourceType": "GMObject",
 }
