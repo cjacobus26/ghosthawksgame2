@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_empty",
-    "path": "sprites/spr_empty/spr_empty.yy",
+    "name": "spr_hideShop",
+    "path": "sprites/spr_hideShop/spr_hideShop.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,17 +21,18 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_knight","path":"objects/obj_knight/obj_knight.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
-  "properties": [],
+  "properties": [
+    {"varType":3,"value":"0","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"colliding","tags":[],"resourceType":"GMObjectProperty",},
+  ],
   "overriddenProperties": [],
   "parent": {
-    "name": "Props",
-    "path": "folders/Objects/Props.yy",
+    "name": "Shop",
+    "path": "folders/Objects/Shop.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_openableDoor",
+  "name": "obj_hideEnterableArea",
   "tags": [],
   "resourceType": "GMObject",
 }

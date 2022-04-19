@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_mageTest",
-    "path": "sprites/spr_mageTest/spr_mageTest.yy",
+    "name": "spr_mageIdle",
+    "path": "sprites/spr_mageIdle/spr_mageIdle.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,6 +28,7 @@
   "overriddenProperties": [
     {"propertyId":{"name":"attack_sprite","path":"objects/obj_knight/obj_knight.yy",},"objectId":{"name":"obj_knight","path":"objects/obj_knight/obj_knight.yy",},"value":"obj_mageAttack","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"attack_speed","path":"objects/obj_knight/obj_knight.yy",},"objectId":{"name":"obj_knight","path":"objects/obj_knight/obj_knight.yy",},"value":"60","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"move_speed","path":"objects/obj_knight/obj_knight.yy",},"objectId":{"name":"obj_knight","path":"objects/obj_knight/obj_knight.yy",},"value":"3","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
     "name": "Mage",
