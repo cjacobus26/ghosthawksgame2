@@ -1,11 +1,14 @@
 {
   "spriteId": {
-    "name": "spr_mageIdle",
-    "path": "sprites/spr_mageIdle/spr_mageIdle.yy",
+    "name": "spr_mageBase",
+    "path": "sprites/spr_mageBase/spr_mageBase.yy",
   },
   "solid": false,
   "visible": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "spr_mageBase",
+    "path": "sprites/spr_mageBase/spr_mageBase.yy",
+  },
   "persistent": false,
   "parentObjectId": {
     "name": "obj_knight",
@@ -29,6 +32,10 @@
     {"propertyId":{"name":"attack_sprite","path":"objects/obj_knight/obj_knight.yy",},"objectId":{"name":"obj_knight","path":"objects/obj_knight/obj_knight.yy",},"value":"obj_mageAttack","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"attack_speed","path":"objects/obj_knight/obj_knight.yy",},"objectId":{"name":"obj_knight","path":"objects/obj_knight/obj_knight.yy",},"value":"60","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"move_speed","path":"objects/obj_knight/obj_knight.yy",},"objectId":{"name":"obj_knight","path":"objects/obj_knight/obj_knight.yy",},"value":"3","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"spr_idle","path":"objects/obj_knight/obj_knight.yy",},"objectId":{"name":"obj_knight","path":"objects/obj_knight/obj_knight.yy",},"value":"spr_mageIdle","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"spr_attack","path":"objects/obj_knight/obj_knight.yy",},"objectId":{"name":"obj_knight","path":"objects/obj_knight/obj_knight.yy",},"value":"spr_mageIdle","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"spr_run","path":"objects/obj_knight/obj_knight.yy",},"objectId":{"name":"obj_knight","path":"objects/obj_knight/obj_knight.yy",},"value":"spr_mageIdle","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"spr_skill","path":"objects/obj_knight/obj_knight.yy",},"objectId":{"name":"obj_knight","path":"objects/obj_knight/obj_knight.yy",},"value":"spr_mageIdle","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
     "name": "Mage",
