@@ -33,9 +33,9 @@
     {"propertyId":{"name":"attack_speed","path":"objects/obj_knight/obj_knight.yy",},"objectId":{"name":"obj_knight","path":"objects/obj_knight/obj_knight.yy",},"value":"60","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"move_speed","path":"objects/obj_knight/obj_knight.yy",},"objectId":{"name":"obj_knight","path":"objects/obj_knight/obj_knight.yy",},"value":"3","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"spr_idle","path":"objects/obj_knight/obj_knight.yy",},"objectId":{"name":"obj_knight","path":"objects/obj_knight/obj_knight.yy",},"value":"spr_mageIdle","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-    {"propertyId":{"name":"spr_attack","path":"objects/obj_knight/obj_knight.yy",},"objectId":{"name":"obj_knight","path":"objects/obj_knight/obj_knight.yy",},"value":"spr_mageIdle","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"spr_run","path":"objects/obj_knight/obj_knight.yy",},"objectId":{"name":"obj_knight","path":"objects/obj_knight/obj_knight.yy",},"value":"spr_mageIdle","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"spr_skill","path":"objects/obj_knight/obj_knight.yy",},"objectId":{"name":"obj_knight","path":"objects/obj_knight/obj_knight.yy",},"value":"spr_mageIdle","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"maxHP","path":"objects/obj_knight/obj_knight.yy",},"objectId":{"name":"obj_knight","path":"objects/obj_knight/obj_knight.yy",},"value":"75","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
     "name": "Mage",

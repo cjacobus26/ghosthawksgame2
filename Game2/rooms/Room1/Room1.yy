@@ -105,7 +105,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_lizard","path":"objects/obj_lizard/obj_lizard.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1408.0,"y":480.0,"resourceVersion":"1.0","name":"inst_7ACACB2A","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_lizard","path":"objects/obj_lizard/obj_lizard.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1504.0,"y":768.0,"resourceVersion":"1.0","name":"inst_13A26691","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_shopkeeper","path":"objects/obj_shopkeeper/obj_shopkeeper.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.0636682,"scaleY":0.06366821,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1184.0,"y":128.0,"resourceVersion":"1.0","name":"inst_F5DD664","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_knight","path":"objects/obj_knight/obj_knight.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":128.0,"y":192.0,"resourceVersion":"1.0","name":"inst_4266E959","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_mage","path":"objects/obj_mage/obj_mage.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":128.0,"y":160.0,"resourceVersion":"1.0","name":"inst_68A4849A","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":300,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Player","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[],"visible":true,"depth":400,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":2,"gridY":2,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Shop_Layer","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
@@ -475,7 +475,7 @@
     {"name":"inst_74F599BE","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_5299ED11","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_F5DD664","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_4266E959","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_68A4849A","path":"rooms/Room1/Room1.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
