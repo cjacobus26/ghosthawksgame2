@@ -30,3 +30,7 @@ if(keyboard_check(ord("S"))and !instance_place(x,y+move_speed,obj_block)) {
 if (!moving){
 	sprite_index = spr_idle
 }
+
+if(keyboard_check(ord("E")) and nearShop){
+	instance_create_layer(x, y, "boss_gui_chests", obj_shopGUI)
+}
