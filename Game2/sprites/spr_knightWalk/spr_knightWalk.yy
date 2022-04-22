@@ -79,7 +79,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_knightWalk","path":"sprites/spr_knightWalk/spr_knightWalk.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_knightWalk",
     "tags": [],
     "resourceType": "GMSequence",

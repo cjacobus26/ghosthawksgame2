@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_hideShop","path":"sprites/spr_hideShop/spr_hideShop.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_hideShop",
     "tags": [],
     "resourceType": "GMSequence",

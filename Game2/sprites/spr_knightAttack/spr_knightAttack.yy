@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_knightAttack","path":"sprites/spr_knightAttack/spr_knightAttack.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_knightAttack",
     "tags": [],
     "resourceType": "GMSequence",
