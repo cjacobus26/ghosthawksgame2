@@ -1,10 +1,10 @@
 {
   "spriteId": {
-    "name": "spr_boss",
-    "path": "sprites/spr_boss/spr_boss.yy",
+    "name": "spr_bossBarrier",
+    "path": "sprites/spr_bossBarrier/spr_bossBarrier.yy",
   },
-  "solid": false,
-  "visible": true,
+  "solid": true,
+  "visible": false,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -20,17 +20,15 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Title Screen",
-    "path": "folders/Objects/Title Screen.yy",
+    "name": "Placeholders",
+    "path": "folders/Objects/Placeholders.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_dragonTitle",
+  "name": "obj_bossBarrier",
   "tags": [],
   "resourceType": "GMObject",
 }

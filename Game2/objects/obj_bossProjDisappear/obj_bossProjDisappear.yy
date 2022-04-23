@@ -1,13 +1,16 @@
 {
   "spriteId": {
-    "name": "spr_boss",
-    "path": "sprites/spr_boss/spr_boss.yy",
+    "name": "spr_boosProjDisappear",
+    "path": "sprites/spr_boosProjDisappear/spr_boosProjDisappear.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_mageAttackDisappear",
+    "path": "objects/obj_mageAttackDisappear/obj_mageAttackDisappear.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -20,17 +23,15 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Title Screen",
-    "path": "folders/Objects/Title Screen.yy",
+    "name": "Enemies",
+    "path": "folders/Objects/Enemies.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_dragonTitle",
+  "name": "obj_bossProjDisappear",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -1,4 +1,10 @@
 /// @description Insert description here
 // You can write your code in this editor
-
-obj_knight.hp -= 50
+if (canGetHurt){
+	hp -= 20
+	if (hp <= 0){
+		game_restart()
+	}
+	canGetHurt = false
+	alarm[1] = 60
+}
