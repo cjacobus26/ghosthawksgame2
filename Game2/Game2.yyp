@@ -4,7 +4,6 @@
     {"id":{"name":"spr_boss","path":"sprites/spr_boss/spr_boss.yy",},"order":0,},
     {"id":{"name":"spr_knightWalk","path":"sprites/spr_knightWalk/spr_knightWalk.yy",},"order":2,},
     {"id":{"name":"spr_mageIdle","path":"sprites/spr_mageIdle/spr_mageIdle.yy",},"order":3,},
-    {"id":{"name":"spr_mageWalk","path":"sprites/spr_mageWalk/spr_mageWalk.yy",},"order":4,},
     {"id":{"name":"obj_key","path":"objects/obj_key/obj_key.yy",},"order":1,},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
     {"id":{"name":"spr_hideShop","path":"sprites/spr_hideShop/spr_hideShop.yy",},"order":0,},
