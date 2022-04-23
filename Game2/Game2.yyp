@@ -9,6 +9,7 @@
     {"id":{"name":"obj_knightButton","path":"objects/obj_knightButton/obj_knightButton.yy",},"order":4,},
     {"id":{"name":"spr_playerButton","path":"sprites/spr_playerButton/spr_playerButton.yy",},"order":4,},
     {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},"order":2,},
+    {"id":{"name":"spr_mageWalk","path":"sprites/spr_mageWalk/spr_mageWalk.yy",},"order":4,},
     {"id":{"name":"obj_key","path":"objects/obj_key/obj_key.yy",},"order":1,},
     {"id":{"name":"Room4","path":"rooms/Room4/Room4.yy",},"order":3,},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
