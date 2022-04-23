@@ -1,4 +1,3 @@
 /// @description Insert description here
 // You can write your code in this editor
-sprite_index = spr_bossDeath
-instance_destroy()
+instance_create_layer(x, y, "boss_gui_chests", obj_bossProjDisappear)
