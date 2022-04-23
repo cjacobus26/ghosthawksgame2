@@ -31,6 +31,6 @@ if (!moving){
 	sprite_index = spr_idle
 }
 
-if(keyboard_check(ord("E")) and nearShop){
+if(keyboard_check(ord("E")) and global.nearShop){
 	instance_create_layer(x, y, "boss_gui_chests", obj_shopGUI)
 }
