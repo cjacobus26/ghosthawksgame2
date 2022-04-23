@@ -111,7 +111,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_mageIdle","path":"sprites/spr_mageIdle/spr_mageIdle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_mageIdle",
     "tags": [],
     "resourceType": "GMSequence",

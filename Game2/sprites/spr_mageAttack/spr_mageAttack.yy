@@ -75,7 +75,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_mageAttack","path":"sprites/spr_mageAttack/spr_mageAttack.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_mageAttack",
     "tags": [],
     "resourceType": "GMSequence",

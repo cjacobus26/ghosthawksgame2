@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_moveMarker","path":"sprites/spr_moveMarker/spr_moveMarker.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_moveMarker",
     "tags": [],
     "resourceType": "GMSequence",

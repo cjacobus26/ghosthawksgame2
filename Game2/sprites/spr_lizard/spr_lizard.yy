@@ -67,7 +67,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_lizard","path":"sprites/spr_lizard/spr_lizard.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_lizard",
     "tags": [],
     "resourceType": "GMSequence",

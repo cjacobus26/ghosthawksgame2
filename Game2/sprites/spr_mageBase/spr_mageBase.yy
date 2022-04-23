@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_mageBase","path":"sprites/spr_mageBase/spr_mageBase.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_mageBase",
     "tags": [],
     "resourceType": "GMSequence",

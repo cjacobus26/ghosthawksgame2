@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_mageAttackDisappear","path":"sprites/spr_mageAttackDisappear/spr_mageAttackDisappear.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_mageAttackDisappear",
     "tags": [],
     "resourceType": "GMSequence",
