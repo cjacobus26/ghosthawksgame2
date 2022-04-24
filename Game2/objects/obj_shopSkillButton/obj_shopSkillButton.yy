@@ -1,12 +1,15 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_shopButtons",
+    "path": "sprites/spr_shopButtons/spr_shopButtons.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "obj_knightHP",
-    "path": "objects/obj_knightHP/obj_knightHP.yy",
+    "name": "obj_attackShopButton",
+    "path": "objects/obj_attackShopButton/obj_attackShopButton.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -22,15 +25,13 @@
   "physicsShapePoints": [],
   "eventList": [],
   "properties": [],
-  "overriddenProperties": [
-    {"propertyId":{"name":"player_class","path":"objects/obj_knightHP/obj_knightHP.yy",},"objectId":{"name":"obj_knightHP","path":"objects/obj_knightHP/obj_knightHP.yy",},"value":"obj_mage","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-  ],
+  "overriddenProperties": [],
   "parent": {
-    "name": "Mage",
-    "path": "folders/Objects/Player/Mage.yy",
+    "name": "Shop Menu",
+    "path": "folders/Objects/Shop/Shop Menu.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_mageHP",
+  "name": "obj_shopSkillButton",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -3,11 +3,7 @@
 
 
 with (obj_shopkeeper) {
-	if (point_distance(x,y, other.x, other.y) < 75){
+	if (point_distance(x,y, other.x, other.y) < 75 and !instance_exists(obj_shopGUI)){
 		draw_sprite(spr_interact, 0, x, y-75)
-		global.nearShop = true
-	}
-	else {
-		global.nearShop = false	
 	}
 }
