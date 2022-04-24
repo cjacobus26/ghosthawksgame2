@@ -23,9 +23,13 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"propertyId":{"name":"upgradeCost","path":"objects/obj_attackShopButton/obj_attackShopButton.yy",},"objectId":{"name":"obj_attackShopButton","path":"objects/obj_attackShopButton/obj_attackShopButton.yy",},"value":"2000","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+  ],
   "parent": {
     "name": "Shop Menu",
     "path": "folders/Objects/Shop/Shop Menu.yy",
