@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_shopGUI",
-    "path": "sprites/spr_shopGUI/spr_shopGUI.yy",
+    "name": "spr_menuClose",
+    "path": "sprites/spr_menuClose/spr_menuClose.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,9 +21,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":64,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":1,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -32,7 +30,7 @@
     "path": "folders/Objects/Shop/Shop Menu.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_shopGUI",
+  "name": "obj_shopClose",
   "tags": [],
   "resourceType": "GMObject",
 }

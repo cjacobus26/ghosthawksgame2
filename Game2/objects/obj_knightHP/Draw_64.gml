@@ -12,4 +12,4 @@ else if (global.playerClass == 2 and !player_spawned) {
 }
 player_spawned = true
 draw_healthbar(8,8,256,32,player_class.hp,c_black,c_red,c_red,0,true,true)
-draw_text(16,40,"Score: " + string(score));
+draw_text(16,40,"Coins: " + string(score));

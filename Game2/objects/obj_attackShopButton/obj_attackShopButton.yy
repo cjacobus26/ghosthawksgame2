@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_shopGUI",
-    "path": "sprites/spr_shopGUI/spr_shopGUI.yy",
+    "name": "spr_shopButtons",
+    "path": "sprites/spr_shopButtons/spr_shopButtons.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,18 +21,20 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":64,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":1,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":7,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
-  "properties": [],
+  "properties": [
+    {"varType":1,"value":"1000","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"upgradeCost","tags":[],"resourceType":"GMObjectProperty",},
+  ],
   "overriddenProperties": [],
   "parent": {
     "name": "Shop Menu",
     "path": "folders/Objects/Shop/Shop Menu.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_shopGUI",
+  "name": "obj_attackShopButton",
   "tags": [],
   "resourceType": "GMObject",
 }

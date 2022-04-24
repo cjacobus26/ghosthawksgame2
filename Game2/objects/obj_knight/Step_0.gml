@@ -31,6 +31,8 @@ if (!moving){
 	sprite_index = spr_idle
 }
 
-if(keyboard_check(ord("E")) and global.nearShop){
-	instance_create_layer(x, y, "boss_gui_chests", obj_shopGUI)
+if(keyboard_check(ord("E"))){
+	if ((point_distance(x,y, obj_shopkeeper.x, obj_shopkeeper.y) < 75) and !(instance_exists(obj_shopGUI))){
+		instance_create_layer(1055, 60, "GUI_Markers", obj_shopGUI)
+	}
 }

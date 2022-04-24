@@ -1,13 +1,16 @@
 {
   "spriteId": {
-    "name": "spr_shopGUI",
-    "path": "sprites/spr_shopGUI/spr_shopGUI.yy",
+    "name": "spr_shopButtons",
+    "path": "sprites/spr_shopButtons/spr_shopButtons.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_attackShopButton",
+    "path": "objects/obj_attackShopButton/obj_attackShopButton.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -20,11 +23,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":64,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":1,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -32,7 +31,7 @@
     "path": "folders/Objects/Shop/Shop Menu.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_shopGUI",
+  "name": "obj_healthShopButton",
   "tags": [],
   "resourceType": "GMObject",
 }
