@@ -26,11 +26,11 @@
   ],
   "overriddenProperties": [],
   "parent": {
-    "name": "Knight",
-    "path": "folders/Objects/Player/Knight.yy",
+    "name": "Player",
+    "path": "folders/Objects/Player.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_knightHP",
+  "name": "obj_GUI",
   "tags": [],
   "resourceType": "GMObject",
 }

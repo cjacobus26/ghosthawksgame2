@@ -33,6 +33,6 @@ if (!moving){
 
 if(keyboard_check(ord("E"))){
 	if ((point_distance(x,y, obj_shopkeeper.x, obj_shopkeeper.y) < 75) and !(instance_exists(obj_shopGUI))){
-		instance_create_layer(1055, 60, "GUI_Markers", obj_shopGUI)
+		instance_create_layer(960, 60, "GUI_Markers", obj_shopGUI)
 	}
 }
