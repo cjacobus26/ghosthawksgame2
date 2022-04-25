@@ -21,9 +21,6 @@ if (!player_spawned){
 
 
 player_spawned = true
-
-healthbarValue = (player_class.hp / player_class.maxHP) * 100
-
-draw_healthbar(8,8,256,32,healthbarValue,c_black,c_red,c_red,0,true,true)
+draw_healthbar(8,8,256,32,player_class.hp,c_black,c_red,c_red,0,true,true)
 draw_text(16,40,"Coins: " + string(score));
 draw_text(190, 10, string(player_class.hp) + "/" + string(player_class.maxHP))
