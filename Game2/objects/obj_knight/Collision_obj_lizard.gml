@@ -3,7 +3,7 @@
 if (canGetHurt){
 	hp -= 10
 	if (hp <= 0){
-		game_restart()
+		room_goto(Lose);
 	}
 	canGetHurt = false
 	alarm[1] = 60
