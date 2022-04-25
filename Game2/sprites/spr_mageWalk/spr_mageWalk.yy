@@ -75,7 +75,7 @@
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
     "xorigin": 43,
-    "yorigin": 92,
+    "yorigin": 95,
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_mageWalk","path":"sprites/spr_mageWalk/spr_mageWalk.yy",},
