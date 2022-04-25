@@ -43,13 +43,11 @@ if (!usingSkill){
 	if(keyboard_check(ord("Q")) and canUseSkill){
 		canUseSkill = false
 		alarm[2] = 120
+		alarm[3] = 30
 		usingSkill = true
 		
 		sprite_index = spr_skill
 	}
-}
-else if (image_index == 6){
-	instance_create_layer(x, y, "Player", obj_skillProj)
 }
 
 
