@@ -25,7 +25,6 @@ if (!usingSkill){
 	if(keyboard_check(ord("S"))and !instance_place(x,y+move_speed,obj_block)) {
 		y += move_speed
 		sprite_index = spr_run
-		image_index = 0
 		moving = true
 	}	
 
@@ -49,6 +48,7 @@ if (!usingSkill){
 		usingSkill = true
 		
 		sprite_index = spr_skill
+		image_index = 0
 	}
 }
 
