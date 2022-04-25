@@ -21,6 +21,11 @@ Created: CraftPix 9 February 2022
 Description: Sprites for obj_key and obj_chest were imported from
 Craftpix
 
+Credits Castle Image
+Source: https://www.freepik.com/vectors/chateau">Chateau vector created by upklyak - www.freepik.com
+Created by: Upklyak
+Description: Image used for background on credits room, free to use
+
 Functionality:
 obj_knightHp- Source: YoYo Games manual and GameMaker Workshop 1
 
