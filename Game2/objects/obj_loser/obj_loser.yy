@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "spr_creditButtons",
-    "path": "sprites/spr_creditButtons/spr_creditButtons.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -21,17 +18,17 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":27,"eventType":9,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Title Screen",
-    "path": "folders/Objects/Title Screen.yy",
+    "name": "End Screen(s)",
+    "path": "folders/Objects/End Screen(s).yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_creditsButton",
+  "name": "obj_loser",
   "tags": [],
   "resourceType": "GMObject",
 }
