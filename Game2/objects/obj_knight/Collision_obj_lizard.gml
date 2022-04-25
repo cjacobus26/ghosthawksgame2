@@ -3,6 +3,7 @@
 if (canGetHurt){
 	hp -= 10
 	if (hp <= 0){
+		audio_play_sound(playerDeath,1,false)
 		room_goto(Lose);
 	}
 	canGetHurt = false
