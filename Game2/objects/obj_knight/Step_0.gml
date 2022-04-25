@@ -35,6 +35,7 @@ if (!usingSkill){
 	if(keyboard_check(ord("E"))){
 		if ((point_distance(x,y, obj_shopkeeper.x, obj_shopkeeper.y) < 75) and !(global.shopOpen)){
 			global.shopOpen = true
+			audio_play_sound(openShop,1,false)
 		
 			layer_set_visible("ShopMenu", 1)
 		}
