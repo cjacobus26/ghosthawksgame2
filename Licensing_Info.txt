@@ -21,10 +21,27 @@ Created: CraftPix 9 February 2022
 Description: Sprites for obj_key and obj_chest were imported from
 Craftpix
 
-Credits Castle Image
+Credits and How-to-play Castle Image
 Source: https://www.freepik.com/vectors/chateau">Chateau vector created by upklyak - www.freepik.com
 Created by: Upklyak
 Description: Image used for background on credits room, free to use
+
+Buttons for Menus
+Source: https://adwitr.itch.io/button-asset-pack
+Created: Adwitr 23 November 2017
+Description: Sprites for buttons in start menus and the shop menus
+
+Title for Player Select and Game Title
+Source: https://cooltext.com/Logo-Design-Embossed
+Created: Cooltext
+Description: Image used for the title and player select text
+
+Sound Effects(ambientSound,attackSound,buttonSound,gameWin,mobDeath,openShop,pickupChest,playerDeath)
+Source: https://mixkit.co/free-sound-effects/game/
+Created: mixkit
+Description: All sound effect are used from mizkit, (mixkit-bonus-earned-in-video-game-2058-openShop),(mixkit-quick-jump-arcade-game-239-buttonSound),
+(mixkit-game-level-completed-2059-gameWin),(mixkit-game-level-music-689-ambientSound),(mixkit-player-recharging-in-video-game-2041-mobDeath),(mixkit-arcade-video-game-bonus-2044-pickupChest),
+(mixkit-martial-arts-fast-punch-2047-attackSound),(mixkit-player-losing-or-failing-2042-playerDeath)
 
 Functionality:
 obj_knightHp- Source: YoYo Games manual and GameMaker Workshop 1
@@ -32,5 +49,7 @@ obj_knightHp- Source: YoYo Games manual and GameMaker Workshop 1
 obj_knight: Movement was derived from GameMaker Workshop 2
 
 obj_endGame: Font1 and Draw event inspired from Completed Game Project
+
+obj_boss: Agro functionallity inspired from Gamemaker Workshop 2
 
 
