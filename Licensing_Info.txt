@@ -10,7 +10,7 @@ Created: Craftpix 14 April 2020
 Description: Enemy sprites used in room1 and are used
 for obj_boss, and obj_lizard
 
-Knight and Knight Attack
+Knight and Knight Attacks, Mage and Mage Attacks
 Source: https://craftpix.net/freebies/assassin-mage-viking-free-pixel-art-game-heroes/
 Created: Craftpix 1 October 2019
 Description: Sprites for obj_knight and obj_knightAttack in Room1
