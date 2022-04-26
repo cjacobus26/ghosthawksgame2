@@ -50,6 +50,8 @@ obj_knight: Movement was derived from GameMaker Workshop 2
 
 obj_endGame: Font1 and Draw event inspired from Completed Game Project
 
-obj_boss: Agro functionallity inspired from Gamemaker Workshop 2
+obj_boss: Agro functionality inspired from Gamemaker Workshop 2
+
+obj_GUI: Some functionality is from YoYo Games Manual and Game Maker Workshop 1
 
 
