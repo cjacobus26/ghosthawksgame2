@@ -1,5 +1,7 @@
 The Key
 
+Created By: Dale Graham, Sean McLellan, Carson Jacobus
+
 Description: You are a knight/mage lost in a dungeon, surrounded by enemies you must
 find a way to escape both the treachourous path and earn money while doing 
 so.
@@ -19,3 +21,11 @@ Interact with the merchant by pressing E
 Use Skills by pressing Q
 
 Find the key to escape after defeating the dragon
+
+Cheat Codes:
+
+ALT + W = Win Screen
+
+ALT + H = Add Health
+
+ALT + C = +1000 Coins
