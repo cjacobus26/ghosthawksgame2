@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-//Citation: YoYoGames GML Manual and GameMaker WorkShop 1 assig
+//Citation: YoYoGames GML Manual and GameMaker WorkShop 1 assignment
 
 if (!player_spawned){
 	if (global.playerClass == obj_knight) {

@@ -3,6 +3,7 @@
 if (canGetHurt){
 	hp -= global.playerAttack * 2 
 	if (hp <= 0){
+		audio_play_sound(mobDeath,1,false)
 		instance_destroy()
 		score += 350
 	}
